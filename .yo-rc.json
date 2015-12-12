@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "asmaiam_tailoring",
+    "packageName": "com.education.tailoring.asm",
+    "packageFolder": "com/education/tailoring/asm",
+    "authenticationType": "xauth",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "7a31e4546caa4ec2f8b215bebb575d991376e652",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
